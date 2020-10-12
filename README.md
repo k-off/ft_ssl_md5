@@ -38,7 +38,7 @@ Rewrite the following functions:
 Extra functions:
 `SHA1` `SHA224` `SHA384` `SHA512`
 
-# Usage
+## Usage
  - clone repository, go to the cloned directory and run command in terminal:
 
 ```
